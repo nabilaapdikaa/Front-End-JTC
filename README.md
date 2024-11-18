@@ -31,7 +31,7 @@
 - Deskripsi lengkap tentang kategori infused water.
 - Daftar infused water berdasarkan kategori yang dipilih.
 
-![Detail Katergori](https://github.com/user-attachments/assets/fc912f1e-7a3e-470d-95d8-6a2c1768206e)
+![Detail Katergori](https://github.com/user-attachments/assets/33c840f8-862d-42c3-9f26-a3d17a79390a)
 
 ---
 
