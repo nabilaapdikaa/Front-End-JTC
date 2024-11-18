@@ -11,7 +11,7 @@
 - Pilihan tanggal untuk memantau kemajuan hidrasi harian.
 - Pencarian infused water berdasarkan nama atau kategori.
 
-![Beranda](Beranda.png)
+![Beranda](https://github.com/user-attachments/assets/228cdd06-8257-4753-9b3c-ca9eaf642dfd)
 
 ---
 
@@ -23,7 +23,7 @@
   - **Vitamin C**, **Relaksasi**, dan lainnya.
 - Setiap kategori berisi rekomendasi infused water yang sesuai.
 
-![Kategori](Kategori.png)
+![Kategori](https://github.com/user-attachments/assets/8f867d1b-1e7e-4c2f-99a7-794e0da638d2)
 
 ---
 
@@ -31,14 +31,14 @@
 - Deskripsi lengkap tentang kategori infused water.
 - Daftar infused water berdasarkan kategori yang dipilih.
 
-![Detail Kategori](Detail%20Katergori.png)
+![Detail Katergori](https://github.com/user-attachments/assets/fc912f1e-7a3e-470d-95d8-6a2c1768206e)
 
 ---
 
 ### **4. Detail Rekomendasi**
 - Informasi lengkap tentang infused water tertentu, seperti bahan-bahan, langkah-langkah pembuatan, dan manfaat kesehatan.
 
-![Detail Rekomendasi](Detail%20Rekomendasi.png)
+![Detail Rekomendasi](https://github.com/user-attachments/assets/c5962800-ec16-4a97-bbcd-be5ad95eb4c1)
 
 ---
 
@@ -46,7 +46,7 @@
 - Informasi personal pengguna, seperti perguruan tinggi, jurusan, dan target hidrasi harian.
 - Menampilkan daftar infused water favorit.
 
-![Profil](Profile.png)
+![Profile](https://github.com/user-attachments/assets/40f2e692-d6b0-4d1f-8054-3709dced1a10)
 
 ---
 
@@ -55,11 +55,17 @@
 - Fitur untuk mengedit catatan hidrasi.
 
 - **Mode Tampilan:**
-  ![Detail Tanggal](Detail%20Tanggal.png)
+  
+ ![Detail Tanggal Edit](https://github.com/user-attachments/assets/b63215bf-5ccf-48df-9122-007bebe81c3f)
+
 - **Mode Edit:**
-  ![Detail Tanggal Edit](Detail%20Tanggal%20Edit.png)
+  
+![Detail Tanggal Edit](https://github.com/user-attachments/assets/b7b28839-39bd-4c9f-ae32-432bb7d90f57)
+
+
 - **Setelah Disimpan:**
-  ![Detail Tanggal Edit Berhasil](Detail%20Tanggal%20Edit%20Berhasil.png)
+  
+![Detail Tanggal Edit Berhasil](https://github.com/user-attachments/assets/ffb5db6b-a741-404e-b317-f3ae5df70719)
 
 ---
 
@@ -68,7 +74,6 @@
 - **Kotlin**: Bahasa pemrograman utama untuk aplikasi.
 - **Jetpack Compose**: Framework modern untuk membangun UI aplikasi Android.
 - **Room Database**: Untuk menyimpan catatan hidrasi pengguna secara lokal.
-- **Firebase**: Untuk notifikasi dan sinkronisasi (jika ada).
 
 ---
 
